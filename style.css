@@ -2,13 +2,15 @@ html {
     height: 100%;
     width: 100%;
   }
-
 body {
-    margin: 30px;
-    font-family: Arial, sans-serif;
+  background-color: gray;
 }
-
-img {
-    width: 300px;
+h3 {
+  color: green;
 }
-  
+.blue {
+  color: blue;
+}
+#red {
+  color: red;
+}
