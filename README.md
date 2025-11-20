@@ -6,4 +6,4 @@ Luego, añadimos las **imágenes requeridas** y nos aseguramos de que se mostrar
 Además, realizamos los ajustes solicitados en el archivo **styles.css**, aplicando los estilos necesarios para mejorar la presentación.  
 Finalmente, implementamos lo pedido en el archivo **script.js**, incorporando la lógica requerida para que la página funcionara como se esperaba.
 
-En resumen, cumplimos exitosamente con cada parte del ejercicio.
+En resumen, cumplimos exitosamente con cada parte del ejercicio y dejamos el proyecto funcionando sin errores.
